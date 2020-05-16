@@ -13,3 +13,5 @@ ________________________________________________________________________________
 3. Instructions:
   To install the game, simply download it off of this github directory, or from the android play store. The game will then prompt the user where they would like to navigate from there. The navigation options are a highscore leaderboard, playing the game, and viewing an instructions page. The game requires the user to input an integer answer input to the questions and then press enter. Each correct answer rewards the player with one point - A time limit of 1 minute 30 seconce will show who is the conquerer of basic arithmetic. 
   
+
+![Alt text](mainPage.png ?raw=true "MainPage")
