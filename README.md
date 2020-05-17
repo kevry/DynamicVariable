@@ -1,4 +1,4 @@
-# DynamicVariable
+# MATH++ ANDROID APP DEVELOPMENT
 Project for EC327
 for BU EC327 for Fall 2018
 
